@@ -1,2 +1,6 @@
-# VIZSGAREMEK 2026. 
-Zsolti - Levente
+VIZSGAREMEK 
+
+- Autószervíz kereső platform
+- Regisztráció/login
+- Admin felület
+
